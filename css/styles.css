@@ -11044,3 +11044,12 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+.current-events {
+  padding: 3rem;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  color: black;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
