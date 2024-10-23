@@ -11048,8 +11048,14 @@ html {
 .current-events {
   padding: 3rem;
   background-color: #f8f9fa;
-  border-radius: 5px;
+  border-radius: 7px;
   color: black;
   margin-bottom: 20px;
   font-size: 20px;
+}
+
+.current-events ul {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: start;
 }
