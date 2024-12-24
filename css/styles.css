@@ -11052,6 +11052,8 @@ html {
   color: black;
   margin-bottom: 20px;
   font-size: 20px;
+  margin: 60px 0;
+  text-align: left;
 }
 
 .current-events ul {
